@@ -1,16 +1,27 @@
-# Sparkies Puppies
+# Calderon Bulldogs
 
-**Project Link:** [Live Website](https://sparkies-puppies.vercel.app/)
+A professional website for a family-owned bulldog breeding business based in Santa Ana, California.
 
 ## Project Overview
 
-**Sparkies Puppies** is a web application designed to support a puppy adoption business by establishing its online presence. The website successfully attracted over 600 new users, enhancing the business's reach and engagement. The platform allows users to browse available puppies, learn more about the adoption process, and make inquiries directly through the site.
+Calderon Bulldogs showcases available puppies, stud services, and information about the breeding program with interactive galleries, responsive design, and smooth navigation.
+
+Live site: https://calderonbulldogs.com/
+
+## Features
+
+- Responsive design for mobile, tablet, and desktop
+- Interactive image galleries with Splide.js
+- Puppy/Parent toggle view
+- Stud service information section
+- FAQ accordion
+- Contact information and social links
+- Animated scroll elements
 
 ## Tech Stack
 
-- **Frontend:** 
-  - HTML
-  - Tailwind CSS
-  - JavaScript
-- **Backend/Database:**
-  - Firebase
+- HTML5
+- Tailwind CSS for styling
+- Vanilla JavaScript
+- Splide.js for image carousels
+- Firebase for data storage
