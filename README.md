@@ -8,6 +8,10 @@ Calderon Bulldogs showcases available puppies, stud services, and information ab
 
 Live site: https://calderonbulldogs.com/
 
+## Spring 2025 CPSC 349-06 21737 Project Submission
+Angel Calderon
+Dustin Olinger 
+
 ## Features
 
 - Responsive design for mobile, tablet, and desktop
